@@ -1,0 +1,1 @@
+The rpngc-ict-asset-registry.v2 is an asset registry tool to assist User Support Technicians to log, track, and monitor IT hardware, software, and peripheral equipment throughout their lifecycle. This registry ensures that assets are maintained responsibly, in compliance with RPNGC’s ICT security policies, and that hardware is properly accounted for. 
